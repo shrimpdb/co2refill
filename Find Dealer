@@ -21,60 +21,24 @@ new / refill
 
 Dealer Name - Zip city - website - More info
 
-I need a simple plugin for my wordpress site that can make a "dealer list" for dealers of CO2 bottles
+Hi
 
-In backend
-- Pages where i can add and edit Options (5 diffrent options).
+I need a simple plugin for my wordpress site that can make a "dealer list" for dealers of CO2 bottles.
+
+Here is the details for the plugin:
+
+-In backend-
+- Pages where i can add and edit Options (5 diffrent options, Structure listed below).
 - Pages where i can add and edit dealers
 - Pages where i can Aprove dealer added by users.
 
 
-# Add or Edit Options #
+## Add or Edit Options ##
 - Add a options that can be use by dealer profile, and filter function on dealer list
 -- Name for the options
 -- Add options
 - Edit a options 
 - Delete a options 
-
-# Add or Edit Dealers #
-- Add a dealer
-- Edit a dealer
-- Delete a dealer
-
-Feild for dealers
-Company name
-Address
-Zip
-City
-Phone number
-email
-website
-facebook link
-Description(long description)
-Logo (picture upload)
-Opnings hour(long description)
-
-Click on the options that is make in the options side and add them to the dealer
-
-# Dealer added by users #
-- List of dealers added by users, need a "Aprove" button, Edit button, and Edit button. In frontend only show dealers that are aproved in backend.
-
-In Frontend
-- A dealer list with realtime filtering
-- A dealer profile site
-- Add dealer (by users)
-
-# Dealer list #
-- Like this example http://co2refill.dk/?page_id=20 (need to be designet more nice and easy to use)
-
-# Dealer profile #
-- A dealer profile with all the options that are added to the dealer
-
-# Add Dealer #
-- Add dealer, the same as in backend, but will not show up on dealer list before aprove by admin. Send a mail to admin when a user add a dealer.
-
-
-
 
 # Option Structure #
 
@@ -99,9 +63,50 @@ Size
 Brand
 - Tropica
 - Blau
-- Noname
-
 
 Equipment sales
 - For aquarium
 - No
+
+
+## Add or Edit Dealers ##
+- Add a dealer
+- Edit a dealer
+- Delete a dealer
+
+Feild for dealers
+Company name
+Address
+Zip
+City
+Phone number
+email
+website
+facebook link
+Description(long description)
+Logo (picture upload)
+Opnings hour(long description)
+
+Click on the options that is make in the options side and add them to the dealer
+
+## Dealer added by users ##
+- List of dealers added by users, need a "Aprove" button, Edit button, and Edit button. In frontend only show dealers that are aproved in backend.
+
+-In Frontend-
+- A dealer list with realtime filtering
+- A dealer profile site
+- Add dealer (by users)
+
+## Dealer list ##
+- Like this example http://co2refill.dk/?page_id=20 (need to be designet more nice and easy to use, just a example)
+
+## Dealer profile ##
+- A dealer profile with all info and options that are added to the dealer
+
+## Add Dealer ##
+- Add dealer, the same as in backend, but will not show up on dealer list before aprove by admin. Send a mail to admin when a user add a dealer.
+
+If it a job you do, let me know the price and delevery time
+
+Best Regards,
+Morten Terp
