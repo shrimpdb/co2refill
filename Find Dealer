@@ -72,3 +72,36 @@ In Frontend
 
 # Add Dealer #
 - Add dealer, the same as in backend, but will not show up on dealer list before aprove by admin. Send a mail to admin when a user add a dealer.
+
+
+
+
+# Option Structure #
+
+Region
+- Hovedstaden
+- Midtjylland
+- Nodrjylland
+- Sjælland
+- Syddanmark
+
+Offering type
+- New
+- Refill own bottle 
+- Change bottle
+
+Size
+- 500g
+- 2 KG
+- 3 KG
+- 5 KG
+
+Brand
+- Tropica
+- Blau
+- Noname
+
+
+Equipment sales
+- For aquarium
+- No
