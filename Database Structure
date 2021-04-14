@@ -1,0 +1,38 @@
+structure
+
+#Dealer#
+Company name
+Address
+Zip
+City
+Phone number
+email
+website
+Description(long description)
+Logo (picture upload)
+
+Opnings hour(long description)
+
+
+Options
+
+
+Brand
+- Tropica
+- Blau
+- Noname
+
+Size
+- 500g
+- 2 KG
+- 3 KG
+- 5 KG
+
+Offering type
+- New
+- Refill own bottle 
+- Change bottle
+
+Equipment sales
+- For aquarium
+- No
