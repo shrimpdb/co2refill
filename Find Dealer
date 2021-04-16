@@ -23,15 +23,19 @@ Dealer Name - Zip city - website - More info
 
 Hi
 
-I need a simple plugin for my wordpress site that can make a "dealer list" for dealers of CO2 bottles.
+I need a simple web site with "dealer list" for dealers of CO2 bottles, where you can seach for dealers, and add a new dealer to the list.
 
-Here is the details for the plugin:
+Example site:
+http://co2refill.dk/?page_id=20
+
+Here is the details for the site:
 
 -In backend-
 - Pages where i can add and edit Options (5 diffrent options, Structure listed below).
 - Pages where i can add and edit dealers
 - Pages where i can Aprove dealer added by users.
 
+- Dont need users for the backend, just a password to login to the backend.
 
 ## Add or Edit Options ##
 - Add a options that can be use by dealer profile, and filter function on dealer list
@@ -104,9 +108,9 @@ Click on the options that is make in the options side and add them to the dealer
 - A dealer profile with all info and options that are added to the dealer
 
 ## Add Dealer ##
-- Add dealer, the same as in backend, but will not show up on dealer list before aprove by admin. Send a mail to admin when a user add a dealer.
+- Add dealer, the same as in backend, but will not show up on dealer list before aprove by admin. add contact info (name and email) for the person that add the Delaer
+Send a mail to admin when a user add a dealer.
 
-If it a job you do, let me know the price and delevery time
 
 Best Regards,
 Morten Terp
