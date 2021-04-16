@@ -1,6 +1,6 @@
-structure
+Database Structure
 
-#Dealer#
+## Dealer ##
 Company name
 Address
 Zip
@@ -12,9 +12,13 @@ Description(long description)
 Logo (picture upload)
 
 Opnings hour(long description)
+added by Name
+added by email
+Aproved
 
+Optines linket to each dealer profile
 
-Options
+## Options ##
 
 Region
 - Hovedstaden
@@ -45,4 +49,3 @@ Equipment sales
 - No
 
 
-De
