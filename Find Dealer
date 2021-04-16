@@ -96,10 +96,12 @@ Click on the options that is make in the options side and add them to the dealer
 ## Dealer added by users ##
 - List of dealers added by users, need a "Aprove" button, Edit button, and Edit button. In frontend only show dealers that are aproved in backend.
 
--In Frontend-
+-In Frontend- 
 - A dealer list with realtime filtering
 - A dealer profile site
 - Add dealer (by users)
+
+Have to be Responsive, for all devices
 
 ## Dealer list ##
 - Like this example http://co2refill.dk/?page_id=20 (need to be designet more nice and easy to use, just a example)
