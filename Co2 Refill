@@ -1,27 +1,3 @@
-## Find Dealer ##
-
-Search function 
-
-Search By
-Dealer name
-City
-
-Options
-
-Brand
-
-Size
-500g
-2 KG
-3 KG
-5 KG
-
-new / refill
-
-
-Dealer Name - Zip city - website - More info
-
-Hi
 
 I need a simple web site with "dealer list" for dealers of CO2 bottles, where you can seach for dealers, and add a new dealer to the list.
 
@@ -112,7 +88,3 @@ Have to be Responsive, for all devices
 ## Add Dealer ##
 - Add dealer, the same as in backend, but will not show up on dealer list before aprove by admin. add contact info (name and email) for the person that add the Delaer
 Send a mail to admin when a user add a dealer.
-
-
-Best Regards,
-Morten Terp
